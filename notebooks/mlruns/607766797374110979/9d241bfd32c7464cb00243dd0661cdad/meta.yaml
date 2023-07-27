@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/9d241bfd32c7464cb00243dd0661cdad/artifacts
+end_time: 1690445140428
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 9d241bfd32c7464cb00243dd0661cdad
+run_name: Extra Trees Classifier
+run_uuid: 9d241bfd32c7464cb00243dd0661cdad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690445139766
+status: 3
+tags: []
+user_id: user
