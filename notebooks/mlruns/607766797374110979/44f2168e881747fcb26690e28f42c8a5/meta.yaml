@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/44f2168e881747fcb26690e28f42c8a5/artifacts
+end_time: 1690811654548
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 44f2168e881747fcb26690e28f42c8a5
+run_name: SVM - Linear Kernel
+run_uuid: 44f2168e881747fcb26690e28f42c8a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690811653383
+status: 3
+tags: []
+user_id: user

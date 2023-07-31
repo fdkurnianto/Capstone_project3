@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/0fef2fd8eef4414f9515e6e1fa149c7d/artifacts
+end_time: 1690788031843
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 0fef2fd8eef4414f9515e6e1fa149c7d
+run_name: Linear Discriminant Analysis
+run_uuid: 0fef2fd8eef4414f9515e6e1fa149c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690788030785
+status: 3
+tags: []
+user_id: user

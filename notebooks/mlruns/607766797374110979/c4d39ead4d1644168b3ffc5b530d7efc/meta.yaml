@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/c4d39ead4d1644168b3ffc5b530d7efc/artifacts
+end_time: 1690619731494
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: c4d39ead4d1644168b3ffc5b530d7efc
+run_name: Quadratic Discriminant Analysis
+run_uuid: c4d39ead4d1644168b3ffc5b530d7efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690619730444
+status: 3
+tags: []
+user_id: user
