@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/88499cd1b1784b65945144ed47aa519e/artifacts
+end_time: 1690976388056
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 88499cd1b1784b65945144ed47aa519e
+run_name: Extreme Gradient Boosting
+run_uuid: 88499cd1b1784b65945144ed47aa519e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690976385840
+status: 3
+tags: []
+user_id: user
