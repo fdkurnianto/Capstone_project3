@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/0b522d797772411292d27735f88961ae/artifacts
+end_time: 1691032500251
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 0b522d797772411292d27735f88961ae
+run_name: K Neighbors Classifier
+run_uuid: 0b522d797772411292d27735f88961ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691032497501
+status: 3
+tags: []
+user_id: user

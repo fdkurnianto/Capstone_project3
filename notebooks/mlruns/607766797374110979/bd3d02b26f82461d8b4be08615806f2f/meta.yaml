@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/bd3d02b26f82461d8b4be08615806f2f/artifacts
+end_time: 1691074640284
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: bd3d02b26f82461d8b4be08615806f2f
+run_name: Random Forest Classifier
+run_uuid: bd3d02b26f82461d8b4be08615806f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691074636938
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/de10c90e86294b09bd2f127d8b0a1982/artifacts
+end_time: 1691069724590
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: de10c90e86294b09bd2f127d8b0a1982
+run_name: Session Initialized b999
+run_uuid: de10c90e86294b09bd2f127d8b0a1982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691068854158
+status: 3
+tags: []
+user_id: user

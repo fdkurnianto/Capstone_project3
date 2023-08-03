@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/8a85fa1e215b4d2b921d1563174d1fe9/artifacts
+end_time: 1691038564519
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 8a85fa1e215b4d2b921d1563174d1fe9
+run_name: Gradient Boosting Classifier
+run_uuid: 8a85fa1e215b4d2b921d1563174d1fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691038559687
+status: 3
+tags: []
+user_id: user

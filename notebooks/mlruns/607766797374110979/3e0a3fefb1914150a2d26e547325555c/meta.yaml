@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/3e0a3fefb1914150a2d26e547325555c/artifacts
+end_time: 1691066399558
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 3e0a3fefb1914150a2d26e547325555c
+run_name: Decision Tree Classifier
+run_uuid: 3e0a3fefb1914150a2d26e547325555c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691066394440
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/e70b63123f094fc894812f24d6234fea/artifacts
+end_time: 1691055380713
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: e70b63123f094fc894812f24d6234fea
+run_name: Dummy Classifier
+run_uuid: e70b63123f094fc894812f24d6234fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691055372763
+status: 3
+tags: []
+user_id: user
