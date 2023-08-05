@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/074eff2b268e4e698d2f7adba3887dbe/artifacts
+end_time: 1691246676059
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 074eff2b268e4e698d2f7adba3887dbe
+run_name: Stacking Classifier
+run_uuid: 074eff2b268e4e698d2f7adba3887dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691246666365
+status: 3
+tags: []
+user_id: user
