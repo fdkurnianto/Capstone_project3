@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/da8133bae556468aa16a82e04bc3148b/artifacts
+end_time: 1691329029362
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: da8133bae556468aa16a82e04bc3148b
+run_name: Bagging Classifier
+run_uuid: da8133bae556468aa16a82e04bc3148b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691329021843
+status: 3
+tags: []
+user_id: user

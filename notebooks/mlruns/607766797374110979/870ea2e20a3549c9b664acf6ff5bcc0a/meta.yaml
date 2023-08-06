@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/870ea2e20a3549c9b664acf6ff5bcc0a/artifacts
+end_time: 1691337178901
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 870ea2e20a3549c9b664acf6ff5bcc0a
+run_name: Logistic Regression
+run_uuid: 870ea2e20a3549c9b664acf6ff5bcc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691337169071
+status: 3
+tags: []
+user_id: user

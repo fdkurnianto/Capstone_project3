@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/42d6511d451e4deda9a72c63f2fdf426/artifacts
+end_time: 1691327751934
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 42d6511d451e4deda9a72c63f2fdf426
+run_name: Ada Boost Classifier
+run_uuid: 42d6511d451e4deda9a72c63f2fdf426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691327746610
+status: 3
+tags: []
+user_id: user

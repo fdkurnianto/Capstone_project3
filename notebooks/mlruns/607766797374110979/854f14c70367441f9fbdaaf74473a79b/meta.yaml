@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/database%20purwadhika/Capstone_project%203/notebooks/mlruns/607766797374110979/854f14c70367441f9fbdaaf74473a79b/artifacts
+end_time: 1691312100377
+entry_point_name: ''
+experiment_id: '607766797374110979'
+lifecycle_stage: active
+run_id: 854f14c70367441f9fbdaaf74473a79b
+run_name: Ridge Classifier
+run_uuid: 854f14c70367441f9fbdaaf74473a79b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691312094972
+status: 3
+tags: []
+user_id: user
